@@ -1,6 +1,10 @@
 # CSharp-Yahtzee
 
-A solitaire, command line version of [Yahtzee](https://en.wikipedia.org/wiki/Yahtzee) created with C# 9 and .NET 5.
+A solitaire, command line version of [Yahtzee](https://en.wikipedia.org/wiki/Yahtzee) created with C Sharp 9 and .NET 5.
+
+## Top Level Statements in C# 9
+
+The lack of any explicitly defined namespace, 'Main' method or 'Program class' in this project probably looks wrong to those familiar with earlier versions of C Sharp. [This article](https://www.claudiobernasconi.ch/2020/12/03/csharp-9-top-level-statements/) helps to explain what is going on.
 
 ## Building A Standalone Executable in Visual Studio 2019
 
