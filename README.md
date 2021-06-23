@@ -1,4 +1,4 @@
-# CSharp-Yahtzee
+# Cli-Yahtzee
 
 A solitaire, command line version of [Yahtzee](https://en.wikipedia.org/wiki/Yahtzee) created with C Sharp 9 and .NET 5.
 
